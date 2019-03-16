@@ -8,7 +8,7 @@
         </v-flex>        
       </v-layout>
 
-      <v-layout align-center justify-center>
+      <v-layout align-center justify-center> 
 
         <v-flex md6>
           <v-card class="elevation-12">
